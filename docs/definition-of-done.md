@@ -4,14 +4,14 @@
 
 Une tâche est considérée comme terminée lorsque les critères suivants sont respectés :
 
-- [ ] Le code répond au besoin demandé.
-- [ ] Le code respecte les conventions Python et le style PEP 8.
-- [ ] Les tests automatisés nécessaires sont présents.
-- [ ] Tous les tests automatisés passent.
-- [ ] La vérification du style passe.
-- [ ] Le workflow GitHub Actions se termine avec succès.
-- [ ] Le code a été relu par un autre membre si possible.
-- [ ] La documentation est mise à jour si nécessaire.
+- [x] Le code répond au besoin demandé.
+- [x] Le code respecte les conventions Python et le style PEP 8.
+- [x] Les tests automatisés nécessaires sont présents.
+- [x] Tous les tests automatisés passent.
+- [x] La vérification du style passe.
+- [x] Le workflow GitHub Actions se termine avec succès.
+- [x] Le code a été relu par un autre membre si possible.
+- [x] La documentation est mise à jour si nécessaire.
 
 ## Objectif
 
